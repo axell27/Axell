@@ -1,0 +1,15 @@
+D:\Axell\Act1\Act1\obj\Debug\net8.0\Act1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Axell\Act1\Act1\obj\Debug\net8.0\Act1.AssemblyInfoInputs.cache
+D:\Axell\Act1\Act1\obj\Debug\net8.0\Act1.AssemblyInfo.cs
+D:\Axell\Act1\Act1\obj\Debug\net8.0\Act1.csproj.CoreCompileInputs.cache
+D:\Axell\Act1\Act1\obj\Debug\net8.0\Act1.sourcelink.json
+D:\Axell\Act1\Act1\bin\Debug\net8.0\Act1.exe
+D:\Axell\Act1\Act1\bin\Debug\net8.0\Act1.deps.json
+D:\Axell\Act1\Act1\bin\Debug\net8.0\Act1.runtimeconfig.json
+D:\Axell\Act1\Act1\bin\Debug\net8.0\Act1.dll
+D:\Axell\Act1\Act1\bin\Debug\net8.0\Act1.pdb
+D:\Axell\Act1\Act1\obj\Debug\net8.0\Act1.dll
+D:\Axell\Act1\Act1\obj\Debug\net8.0\refint\Act1.dll
+D:\Axell\Act1\Act1\obj\Debug\net8.0\Act1.pdb
+D:\Axell\Act1\Act1\obj\Debug\net8.0\Act1.genruntimeconfig.cache
+D:\Axell\Act1\Act1\obj\Debug\net8.0\ref\Act1.dll
