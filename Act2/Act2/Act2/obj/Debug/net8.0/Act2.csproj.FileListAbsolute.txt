@@ -1,0 +1,15 @@
+D:\Axell\Act2\Act2\Act2\obj\Debug\net8.0\Act2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Axell\Act2\Act2\Act2\obj\Debug\net8.0\Act2.AssemblyInfoInputs.cache
+D:\Axell\Act2\Act2\Act2\obj\Debug\net8.0\Act2.AssemblyInfo.cs
+D:\Axell\Act2\Act2\Act2\obj\Debug\net8.0\Act2.csproj.CoreCompileInputs.cache
+D:\Axell\Act2\Act2\Act2\obj\Debug\net8.0\Act2.sourcelink.json
+D:\Axell\Act2\Act2\Act2\bin\Debug\net8.0\Act2.exe
+D:\Axell\Act2\Act2\Act2\bin\Debug\net8.0\Act2.deps.json
+D:\Axell\Act2\Act2\Act2\bin\Debug\net8.0\Act2.runtimeconfig.json
+D:\Axell\Act2\Act2\Act2\bin\Debug\net8.0\Act2.dll
+D:\Axell\Act2\Act2\Act2\bin\Debug\net8.0\Act2.pdb
+D:\Axell\Act2\Act2\Act2\obj\Debug\net8.0\Act2.dll
+D:\Axell\Act2\Act2\Act2\obj\Debug\net8.0\refint\Act2.dll
+D:\Axell\Act2\Act2\Act2\obj\Debug\net8.0\Act2.pdb
+D:\Axell\Act2\Act2\Act2\obj\Debug\net8.0\Act2.genruntimeconfig.cache
+D:\Axell\Act2\Act2\Act2\obj\Debug\net8.0\ref\Act2.dll
