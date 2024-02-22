@@ -1,0 +1,8 @@
+D:\Axell\Quiz2\Quiz2\obj\Debug\Quiz2.csproj.AssemblyReference.cache
+D:\Axell\Quiz2\Quiz2\obj\Debug\Quiz2.csproj.SuggestedBindingRedirects.cache
+D:\Axell\Quiz2\Quiz2\obj\Debug\Quiz2.csproj.CoreCompileInputs.cache
+D:\Axell\Quiz2\Quiz2\bin\Debug\Quiz2.exe.config
+D:\Axell\Quiz2\Quiz2\bin\Debug\Quiz2.exe
+D:\Axell\Quiz2\Quiz2\bin\Debug\Quiz2.pdb
+D:\Axell\Quiz2\Quiz2\obj\Debug\Quiz2.exe
+D:\Axell\Quiz2\Quiz2\obj\Debug\Quiz2.pdb
